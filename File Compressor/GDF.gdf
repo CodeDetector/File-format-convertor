@@ -1,0 +1,12 @@
+nodedef>name VARCHAR,label VARCHAR
+s1,Site number 1
+s2,Site number 2
+s3,Site number 3
+edgedef>node1 VARCHAR,node2 VARCHAR,directed BOOLEAN,weight1 DOUBLE,weight2 DOUBLE
+s1,s2,false,1.234,12
+s2,s3,true,1.6,
+s3,s2,true,7.9,
+s3,s1,true,4,
+
+
+

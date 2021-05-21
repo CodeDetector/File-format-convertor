@@ -1,0 +1,7 @@
+Number of Lines 1640566513
+Number of Words 32604
+Total Characters 1640599295
+Characters excluding spaces 1640566526
+Total Bytes 16
+
+Hello Hello Hi Hi
